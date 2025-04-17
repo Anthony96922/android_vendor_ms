@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_presidential_alerts_settings">true</bool>
+    <bool name="show_public_safety_full_screen_settings">true</bool>
+    <bool name="show_exercise_settings">true</bool>
+    <bool name="show_operator_defined_settings">true</bool>
+    <bool name="disable_severe_when_extreme_disabled">false</bool>
+    <bool name="config_showAreaUpdateInfoSettings">true</bool>
+    <bool name="show_alert_speech_setting">true</bool>
+</resources>
