@@ -4,8 +4,5 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
-    <string name="data_connection_4g" translatable="false">4️⃣G 🅱️HoLTE</string>
-    <string name="data_connection_4g_plus" translatable="false">4️⃣G 🅱️HoLTE+</string>
-    <string name="data_connection_5g" translatable="false">5️⃣G 🅱️HoNR</string>
-    <string name="data_connection_5g_plus" translatable="false">5️⃣G 🅱️HoNR+</string>
+    <string name="data_connection_5g_plus" translatable="false">5G+</string>
 </resources>
