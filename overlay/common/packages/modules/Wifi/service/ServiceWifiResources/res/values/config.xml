@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wifi_tether_configure_ssid_default" translatable="false">Binbows</string>
     <bool translatable="false" name="config_wifi_watchdog_enabled">false</bool>
     <bool translatable="false" name="config_wifiRemainConnectedAfterIpProvisionTimeout">true</bool>
 </resources>
